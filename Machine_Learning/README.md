@@ -46,5 +46,5 @@ The purpose of this project is to demonstrate how to create a web application fo
 
  <div style="text-align: center;">
         <h2>Top Movies Ratings</h2>
-        <img src="[https://i.ibb.co/9Z4QcG5/chart.png](https://ibb.co/b68NHtb)"  width="800" height="500" />
+        <a href="https://ibb.co/k0mjQPq"><img src="https://i.ibb.co/4M1zP04/webscrapping-chart.png" alt="webscrapping-chart" border="0"></a>
   </div>
