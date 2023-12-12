@@ -23,7 +23,7 @@ This Python script demonstrates web scraping of movie data from The Movie Databa
     - Login in to themoviedb.org
     - Go to settings/api
     - Create an API key by providing input
-    - For now i will provide my Apikey value="f1f6529de171f7d0521bdde174d3b23a"
+
 
 2. **Install Dependencies:**
     ```bash
@@ -37,10 +37,6 @@ This Python script demonstrates web scraping of movie data from The Movie Databa
 
 4. **Access the Visualization:**
     - Open your web browser and visit [http://127.0.0.1:5000/](http://127.0.0.1:5000/) to view the top movies ratings chart.
-
-## Configuration
-
-- Replace `'f1f6529de171f7d0521bdde174d3b23a'` in the script with your actual TMDb API key.
 
 ## Project Structure
 
