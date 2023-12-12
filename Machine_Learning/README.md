@@ -8,8 +8,7 @@ The purpose of this project is to demonstrate how to create a web application fo
 ## Project Structure
 
 - **`app.py`**: The main Flask application file.
-- **`templates/index_sentiment.html`**: HTML template for the main page.
-- **`templates/result_sentiment.html`**: HTML template to display the sentiment analysis result.
+- **`templates/index.html`**: HTML template for the main page and for result.
 
 ## Setup Instructions
 
