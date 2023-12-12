@@ -9,7 +9,7 @@ Detail the steps involved in scraping movie data from the TMBD website.
 Include any specific HTML tags or classes targeted for data extraction.
 
 ******Run the Project******
---> Need to have python in your setup
+--> Need to have python in your setup <br>
 --> pip install Flask
 --> Singup to www.themoviedb.org
 --> Login in to themoviedb.org
@@ -22,5 +22,5 @@ Include any specific HTML tags or classes targeted for data extraction.
 
  <div style="text-align: center;">
         <h2>Top Movies Ratings</h2>
-        <img src="https://i.ibb.co/9Z4QcG5/chart.png" alt="Top Movies Ratings Chart" width="800" height="500"/>
+        <img src="https://i.ibb.co/9Z4QcG5/chart.png" alt="Top Movies Ratings Chart" width="500" height="500"/>
 </div>
