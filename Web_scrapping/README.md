@@ -53,5 +53,5 @@ This Python script demonstrates web scraping of movie data from The Movie Databa
 
 
 <div align="center">
-    <img src="https://i.ibb.co/9Z4QcG5/chart.png" alt="Top Movies Ratings Chart" width="800" height="500" />
+    <img src="[https://i.ibb.co/9Z4QcG5/chart.png](https://ibb.co/b68NHtb)" alt="Top Movies Ratings Chart" width="800" height="500" />
 </div>
