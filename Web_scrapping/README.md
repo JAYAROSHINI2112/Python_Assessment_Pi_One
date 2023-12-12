@@ -22,5 +22,5 @@ Include any specific HTML tags or classes targeted for data extraction.
 
  <div style="text-align: center;">
         <h2>Top Movies Ratings</h2>
-        <img src="https://i.ibb.co/9Z4QcG5/chart.png" alt="Top Movies Ratings Chart" />
+        <img src="https://i.ibb.co/9Z4QcG5/chart.png" alt="Top Movies Ratings Chart" width="800" height="500"/>
 </div>
