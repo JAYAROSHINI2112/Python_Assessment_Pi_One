@@ -45,6 +45,6 @@ The purpose of this project is to demonstrate how to create a web application fo
 4. To run the application locally, ensure that you have Python and the required libraries installed.
 
  <div style="text-align: center;">
-        <h2>Top Movies Ratings</h2>
-        <a href="https://ibb.co/k0mjQPq"><img src="https://i.ibb.co/4M1zP04/webscrapping-chart.png" alt="webscrapping-chart" border="0"></a>
+        <h2>Sentiment Analysis</h2>
+       <a href="https://ibb.co/zx77RZt"><img src="https://i.ibb.co/g9PPTJc/ML-Scrrenshot.png" alt="ML-Scrrenshot" border="0"></a>
   </div>
