@@ -1,24 +1,57 @@
-******Overview******<br><br>
-Explain the high-level process of scraping top movies from TMBD in your script.<br>
-Libraries Used:<br>
-List the external libraries used (e.g., BeautifulSoup, requests).<br>
-Scraping Process:<br>
-Detail the steps involved in scraping movie data from the TMBD website.
-Include any specific HTML tags or classes targeted for data extraction.
+ # TMDb Web Scraping and Visualization
 
-******Run the Project******<br><br>
---> Need to have python in your setup <br>
---> pip install Flask<br>
---> Singup to www.themoviedb.org<br>
---> Login in to themoviedb.org<br>
---> Go to settings/api<br>
---> Create an API key by providing input.<br>
---> Replace api_key value in app.py<br>
---> For now i will provide my Apikey value="f1f6529de171f7d0521bdde174d3b23a"<br>
---> cd yourlocaladdress/Web_scrapping<br>
---> Tp Run the code "python webscrapping.py"<br>
+## Overview
 
- <div style="text-align: center;">
-        <h2>Top Movies Ratings</h2>
-        <img src="https://i.ibb.co/9Z4QcG5/chart.png" alt="Top Movies Ratings Chart" width="500" height="500"/>
+This Python script demonstrates web scraping of movie data from The Movie Database (TMDb) using the TMDb API. The script retrieves information about the top-rated movies and creates a bar chart visualization of their ratings using the Matplotlib library.
+
+## Features
+
+- Retrieves top-rated movies from TMDb.
+- Creates a bar chart of movie ratings using Matplotlib.
+- Embeds the chart in an HTML page for easy visualization.
+
+## Prerequisites
+
+- Python 3
+- Required Python packages: `requests`, `matplotlib`, `flask`
+
+## Getting Started
+
+1. **API Key:**
+    - Obtain an API key from TMDb by signing up on their website.
+    - Singup to www.themoviedb.org
+    - Login in to themoviedb.org
+    - Go to settings/api
+    - Create an API key by providing input
+    - For now i will provide my Apikey value="f1f6529de171f7d0521bdde174d3b23a"
+
+2. **Install Dependencies:**
+    ```bash
+    pip install requests matplotlib Flask
+    ```
+
+3. **Run the Script:**
+    ```bash
+    python app.py
+    ```
+
+4. **Access the Visualization:**
+    - Open your web browser and visit [http://127.0.0.1:5000/](http://127.0.0.1:5000/) to view the top movies ratings chart.
+
+## Configuration
+
+- Replace `'f1f6529de171f7d0521bdde174d3b23a'` in the script with your actual TMDb API key.
+
+## Project Structure
+
+- `app.py`: Python script for web scraping and visualization.
+- `templates/index.html`: HTML template for displaying the chart.
+
+## Acknowledgments
+
+- The Movie Database (TMDb) for providing the API.
+
+
+<div align="center">
+    <img src="https://i.ibb.co/9Z4QcG5/chart.png" alt="Top Movies Ratings Chart" width="800" height="500" />
 </div>
