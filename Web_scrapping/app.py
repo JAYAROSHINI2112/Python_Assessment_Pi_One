@@ -1,9 +1,10 @@
 from flask import Flask, render_template
 import requests
 import matplotlib.pyplot as plt
+from dotenv import load_dotenv
 from io import BytesIO
-import base64
-
+import base64,os
+load_dotenv()
 app = Flask(__name__)
 
 def get_top_movies(api_key):
@@ -41,7 +42,7 @@ def create_rating_bar_chart(top_movies):
 
 @app.route('/')
 def index():
-    api_key = 'f1f6529de171f7d0521bdde174d3b23a'  
+    api_key = os.environ.get("API_KEY")
     top_movies = get_top_movies(api_key)
 
     if top_movies:
