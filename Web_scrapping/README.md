@@ -53,5 +53,5 @@ This Python script demonstrates web scraping of movie data from The Movie Databa
 
 
 <div align="center">
-   <a href="https://ibb.co/b68NHtb"><img src="https://i.ibb.co/fXPr8JD/ML-Scrrenshot.png" alt="ML-Scrrenshot" border="0"></a>
+   <a href="https://ibb.co/nQS63q2"><img src="https://i.ibb.co/tY5QZwf/webscrapping-chart.png" alt="webscrapping-chart" border="0"></a>
 </div>
